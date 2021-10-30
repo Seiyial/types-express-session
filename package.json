@@ -1,0 +1,8 @@
+{
+  "name": "@types/express-session",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Seiyial Aurum <sayhao@seiyial.xyz>",
+  "license": "MIT",
+  "description": "Used with express-session 1.17.1"
+}
